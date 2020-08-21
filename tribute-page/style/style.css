@@ -1,0 +1,42 @@
+#title {
+    text-align: center;
+    font-family: monospace;
+    font-size: 50px;
+    color: #94E79B;
+  }
+  #title-desc {
+    text-align: center;
+    color: #94E79B;
+    font-family: monospace;
+    font-size: 20px;
+  }
+  #main {
+    background-color: #8A0B37;
+  }
+  #image {
+    width: 100%;
+    height: auto;
+    max-width: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  #img-caption {
+    display: block;
+    margin-left: auto;
+    margin-right: -30px;
+    width: 50%;
+    color: #94E79B;
+  }
+  #tribute-info {
+    color: #94E79B;
+    display: block;
+    text-align: start;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 20px;
+  }
+  .list{
+    max-width: 1000px;
+    margin-left: 20px;
+    font-family: arial;
+  }
